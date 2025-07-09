@@ -1,10 +1,9 @@
 # Analisis_y_ciencias_de_datos_con_Python
-PROGRAMA DE FORMACIÓN PARA LA INNOVACIÓN DOCENTE 2025
+Este curso forma parte del **Programa de Formación para la Innovación Docente 2025** del Centro Universitario de los Altos.
+
 # Curso: Análisis y Ciencias de Datos con Python
 
 Este curso está diseñado como una introducción práctica al uso de Python en el contexto de la ciencia de datos, con un enfoque orientado a docentes que desean integrar herramientas tecnológicas para el análisis y la interpretación de información en su práctica profesional.
-
-Este curso forma parte del **Programa de Formación para la Innovación Docente 2025** del Centro Universitario de los Altos.
 
 ## Objetivo general
 
