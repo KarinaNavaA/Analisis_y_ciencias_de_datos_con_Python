@@ -4,6 +4,8 @@ PROGRAMA DE FORMACIÓN PARA LA INNOVACIÓN DOCENTE 2025
 
 Este curso está diseñado como una introducción práctica al uso de Python en el contexto de la ciencia de datos, con un enfoque orientado a docentes que desean integrar herramientas tecnológicas para el análisis y la interpretación de información en su práctica profesional.
 
+Este curso forma parte del **Programa de Formación para la Innovación Docente 2025** del Centro Universitario de los Altos.
+
 ## Objetivo general
 
 Desarrollar competencias básicas en el uso de Python y bibliotecas especializadas para la manipulación, análisis y visualización de datos, promoviendo el uso educativo de herramientas digitales que fomenten el pensamiento crítico y el trabajo con datos reales.
@@ -65,4 +67,4 @@ La evaluación se basa en la entrega de actividades prácticas al finalizar cada
 
 ---
 
-Este curso forma parte del **Programa de Formación para la Innovación Docente 2025** del Centro Universitario de los Altos.
+
